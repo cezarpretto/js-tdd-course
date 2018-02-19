@@ -7,10 +7,4 @@ const FizzBuzz = (num) => {
   return num
 }
 
-function foo () {
-  return 'bar'
-}
-
-console.log(foo)
-
 export default FizzBuzz
